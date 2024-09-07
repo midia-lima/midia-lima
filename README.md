@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Olá, sou a Midiã, Data Engineer e trabalho com tecnologia desde 2020. 
+Olá, sou a Midiã, Software Engineer e trabalho com tecnologia desde 2020. 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=link_do_seu_perfil_no_linkedin)](https://www.linkedin.com/in/midia-lima/)
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=link_do_seu_perfil_no_github)](https://github.com/midia-lima)
